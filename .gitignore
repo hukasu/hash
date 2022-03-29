@@ -1,0 +1,5 @@
+# Visual Code
+.vscode/
+
+# CMake
+build/
